@@ -20,6 +20,9 @@ Project Management:
 * ClickUp
 * Notion
 
+Presentation:
+* Google Slides
+
 
 ## Data Source
 The datasets are provided by @Californa DMV and YouTube channel @Wham Baam Teslacam

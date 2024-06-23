@@ -34,7 +34,8 @@ Teslacam Video: https://www.youtube.com/@WhamBaamTeslacam/videos
 
 
 ## Methodology
-<img width="1550" alt="Picture2" src="https://github.com/manyuzhang1996/Autonomous-Vehicle-Collision-Analysis-System/assets/111943220/1f615cf4-30d7-41c2-a79a-52a5b2b76e10">
+![Data298 Methodology](https://github.com/manyuzhang1996/Autonomous-Vehicle-Collision-Analysis-System/assets/111943220/e964f4a0-143b-4720-a3fa-7ee1fa9443ff)
+
 
 ## Portal Architecture
 <img width="500" alt="Picture1" src="https://github.com/manyuzhang1996/Autonomous-Vehicle-Collision-Analysis-System/assets/111943220/c9217fbf-9e62-46fe-adfd-e69661a9da3a">

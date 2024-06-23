@@ -4,7 +4,8 @@ A project for autonomous vehicle (AV) collision analysis, including analyzing th
 The purpose of the system is to extract objects and conditions involved in the collision with AV involved, so we can extract the info to re-construct the scenario for AV testing.
 
 
-https://github.com/manyuzhang1996/Autonomous-Vehicle-Collision-Analysis-System/assets/111943220/3419e8ee-8483-42e9-9b70-8f3920389932
+https://github.com/manyuzhang1996/Autonomous-Vehicle-Collision-Analysis-System/assets/111943220/a5093cc8-3ff7-4961-9c84-068c189d588c
+
 
 ## Technology Stack
 Languages: 
